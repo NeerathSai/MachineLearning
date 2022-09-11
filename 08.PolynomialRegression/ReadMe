@@ -1,0 +1,12 @@
+Download fuel consumption dataset "FuelConsumption.csv", which contains modelspecific fuel consumption ratings and estimated carbon dioxide emissions. 
+
+• Select the features 'ENGINESIZE', 'CYLINDERS', 
+  'FUELCONSUMPTION_COMB', 'CO2EMISSIONS' to use for building the 
+   model. Plot Emission values with respect to Engine size.
+
+• split the data into training and test sets (70:30) to create a model using training 
+  set, evaluate the model using test set, and use model to predict unknown value.
+
+• Try to use a polynomial regression with the dataset of degree – 3, 4 & 5. Verify 
+  the accuracy by calculating Mean absolute error, Residual sum of squares, R2-
+  score and comment on which model is the best.
