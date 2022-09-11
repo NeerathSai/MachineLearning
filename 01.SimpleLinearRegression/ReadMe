@@ -1,0 +1,14 @@
+1. Write a user defined function ‘myFnLinReg(x,y)’ to perform Simple Linear 
+   Regression given one predictor attribute and one response attribute. The 
+   function should return the coefficients of the straight line.
+
+2. Use mtcars data set and consider the attributes mpg and weight. Split data into 
+   train and test sets (80 %,20%). Put training data set to ‘myFnLinReg(x,y)’ to 
+   build a linear regression model to predict mpg given the weight of the car.
+
+3. What is the mpg of a car, whose weight is 5.5?
+
+4. Compute and print accuracy measures such as RMSE and R2 for the test set. 
+
+5. Apply the stochastic gradient descent and mini batch gradient descent 
+   algorithms to enhance the accuracy and visualize the cost function.
