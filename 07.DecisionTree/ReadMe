@@ -1,0 +1,14 @@
+1. Use the German credit rating dataset “German Credit Data.csv” , Decision tree
+   classifier to predict good or bad credit. Use “sklearn.model_selection” and 
+   GridSearchCV to search the hyperparameter values and report the most optimal 
+   one. Configure the grid search to search for optimal parameters:
+
+    • Splitting criteria: gini or entropy.
+    • Maximum depth of decision tree ranging from 2 to 10.
+    • The searching of optimal parameter will be validated using 10-fold cross 
+      validation and the most optimal parameter will be chosen based on ROC AUC score.
+      
+      
+2. Visualize the tree using graphviz software.
+
+3. Display the text representation of the rules learnt.
