@@ -1,0 +1,12 @@
+Consider the 'HousePrice.csv' dataset which describes the features and sale price of a 
+house. Build a regression model using regularization to predict the value of the 
+properties.
+
+1. Perform the preprocessing if required, scale the train and test data using standard 
+   scaler.
+
+2. Split the dataset into train size of 70% and test size of 30% and Apply the Ridge 
+   and Lasso regression and fit the model containing all independent variables.
+
+3. Make predictions on test data “HousePriceTest.csv” and tabulate performance of 
+   both models on unseen data.
