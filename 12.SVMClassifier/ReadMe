@@ -1,0 +1,12 @@
+1. Write down the meta information about the “cancer.csv” data set available in 
+   the UCI repository, 
+   https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+   
+2. Tabulate and visualize the distribution of the numeric variables.
+
+3. Perform the required preprocessing , 70,30 split and build a classifier using the 
+   SVM model available in SciKit Learn.
+
+4. Tune the hyperparameters of kernel (linear, polynomial, and radial basis), 
+   regularization and gamma. Tabulate the model performance and comment on 
+   the best model found for the given dataset.
