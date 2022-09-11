@@ -1,0 +1,11 @@
+1. Use the titanic data set, perform preprocessing by deal with missing values, drop 
+   irrelevant attributes.
+
+2. Use the scikit learn pipelines to perform the preprocessing - standardizing, 
+   encoding and model fitting in one step. 
+
+3. Perform Bayes classification using cross validation.
+
+4. Tabulate using relevant measures of accuracy , Sensitivity and specificity.
+
+5. Visualize the ROC curve and comment on performance
